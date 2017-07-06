@@ -1,7 +1,7 @@
 # ORMLite-Kotlin
 Kotlin example of using ORMLite
 
-## Use
+## e.g.
 ```
 @DatabaseTable(tableName = "table")
 data class Table(
